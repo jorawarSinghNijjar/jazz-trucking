@@ -1,9 +1,9 @@
 import React from 'react';
 import useStyles from './styles';
 
-const Home = () => {
+const Careers = () => {
     const classes = useStyles();
-    return <div>pagename</div>;
+    return <div>Careers</div>;
 }
 
-export default Home;
+export default Careers;
